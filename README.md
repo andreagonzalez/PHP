@@ -1,0 +1,1 @@
+Vais encontrar aqui a reprodução dos exemplos propostos durante as aulas do curso PHP do Prof. Gustavo Guanabara. Minha finalidade é apenas praticar e disponibilizar os códigos para quem estiver, assim como eu, aprendendo a programar. Também vou postar os códigos dos exerícios propostos, bem como os desafios do Guanabara os dos outros professores que estou acompanhando.
