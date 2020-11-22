@@ -1,4 +1,4 @@
-!DOCTYPE html>
+<!DOCTYPE html>
 <html>
 <head>
 <meta charset="UTF-8"/>
@@ -6,6 +6,7 @@
 <style>
 	h2 {
 		color: #80a2ff;
+		text-shadow: 1px 1px 1px black;
 		}
 </style>		
 </head>
